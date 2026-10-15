@@ -3,7 +3,7 @@
 # ============================================================
 
 # Telegram Bot Token (from @BotFather)
-BOT_TOKEN = "8943490151:AAG7H6OKfCpsZ5nW2fHYxqe6DO9cDr6hae0"
+BOT_TOKEN = "8665622616:AAGu_Ns2vsXAPwYf9-WESg7DGi_9AoKyshs"
 
 # No default Firebase — each user adds their own via the bot
 
